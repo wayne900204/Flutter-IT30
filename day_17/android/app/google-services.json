@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "516199513325",
+    "project_id": "it30-17",
+    "storage_bucket": "it30-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516199513325:android:3cbae320dead8445cc20e4",
+        "android_client_info": {
+          "package_name": "com.example.day_17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516199513325-t70acf04d1fkrlm88mfdoejnmn6j6b9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.day_17",
+            "certificate_hash": "49fbca27513491282aeb3a6ae2fafb1df990da1a"
+          }
+        },
+        {
+          "client_id": "516199513325-lq7mecerb2vtl4u4utqub566m9ak8j8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf14A70y8Yfi7jwxWCsPJxRXvRkuKF0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516199513325-lq7mecerb2vtl4u4utqub566m9ak8j8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516199513325-nf6hurfmfp4p6jcv8avleh9bj3qfvc2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmNotifications"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516199513325:android:92110565262c27c1cc20e4",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516199513325-i6ol4euitg38di0qj8d8jr7ieptg3lv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcm_notifications",
+            "certificate_hash": "49fbca27513491282aeb3a6ae2fafb1df990da1a"
+          }
+        },
+        {
+          "client_id": "516199513325-lq7mecerb2vtl4u4utqub566m9ak8j8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf14A70y8Yfi7jwxWCsPJxRXvRkuKF0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516199513325-lq7mecerb2vtl4u4utqub566m9ak8j8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516199513325-nf6hurfmfp4p6jcv8avleh9bj3qfvc2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmNotifications"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
