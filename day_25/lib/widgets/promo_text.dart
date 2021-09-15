@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../helper/colors.dart';
 
-/// 宣傳文字
+/// 宣傳框
 class PromoText extends StatelessWidget {
   const PromoText({
     Key? key,
