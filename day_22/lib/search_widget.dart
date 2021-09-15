@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'empty_result_widget.dart';
 import 'github_api.dart';
 import 'search_bloc.dart';
